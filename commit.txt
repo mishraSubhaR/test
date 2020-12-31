@@ -1,0 +1,16 @@
+git log
+>>
+commit ac2099e5d8a1599973ca9dac9bbf13632f4308a6 (HEAD -> new-branch, origin/main, origin/HEAD)
+Merge: 49fc7a5 69d90a2
+Author: mishraSubhaR <v6.mishra@excelblaze.com>
+Date:   Thu Dec 31 17:23:55 2020 +0530
+
+    Merge branch 'main' of https://github.com/mishraSubhaR/test into main
+
+commit 69d90a2b4853044ebaefa331b1848de3f11f2ffc
+Author: mishraSubhaR <44098343+mishraSubhaR@users.noreply.github.com>
+Date:   Thu Dec 31 17:18:21 2020 +0530
+
+    Update untrackedfile.txt
+
+    origin modification
